@@ -8,6 +8,7 @@ Domain Name Service (DNS) provides highly available and scalable authoritative D
    :class: container-sbv
 
    .. service_card::
+      :environment: internal
       :service_type: dns
       :umn: This document describes basic concepts, functions, key terms, and FAQs of DNS and provides instructions for applying for and using DNS.
       :api-ref: This document describes application programming interfaces (APIs) of Domain Name Service (DNS) and provides API parameter description and example values.
