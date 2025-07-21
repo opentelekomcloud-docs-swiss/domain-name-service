@@ -12,3 +12,8 @@ Domain Name Service (DNS) provides highly available and scalable authoritative D
       :cloud_environment: swiss
       :umn: This document describes basic concepts, functions, key terms, and FAQs of DNS and provides instructions for applying for and using DNS.
       :api-ref: This document describes application programming interfaces (APIs) of Domain Name Service (DNS) and provides API parameter description and example values.
+
+   .. service_card_link::
+      :title: Best Practices
+      :url: https://arch.otc-service.com/docs/best-practices/networking/domain-name-service
+      :description: Discover our best practices for optimizing cloud-based solutions, focusing on architectural principles that ensure reliability, scalability, security, high availability, and fault tolerance in the Open Telekom Cloud Architecture Center.
